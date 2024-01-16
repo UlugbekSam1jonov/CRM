@@ -1,0 +1,31 @@
+{
+  "courses":
+          [
+            {
+              "name": "Python",
+              "graduation": 8,
+              "description": "Enfg zo'r kurs",
+              "buying_users": 0,
+              "price": 990,
+              "mentor": "John Smith",
+              "hours": 184,
+              "reyting": 0,
+              "active_users": 0,
+              "lenguege": "uz",
+              "create_date": "2023-12-16"
+            },
+            {
+              "name": "Java",
+              "graduation": 9,
+              "description": "Eng zo'r kurs",
+              "buying_users": 0,
+              "price": 1100,
+              "mentor": "Mustafo Aliyev",
+              "hours": 184,
+              "reyting": 0,
+              "active_users": 0,
+              "lenguege": "uz",
+              "create_date": "2024-01-15"
+            }
+          ]
+}

@@ -1,0 +1,18 @@
+{
+  "speciality":
+          [
+            {
+              "name": "Dasturlash",
+              "description": "Mutahasislik",
+              "graduation": 6,
+              "create_date" : "2024-12-12"
+            },
+
+            {
+              "name": "SMM",
+              "description": "Mutahasislik",
+              "graduation": 4,
+              "create_date" : "2024-12-12"
+            }
+          ]
+}
